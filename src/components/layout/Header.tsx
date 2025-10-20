@@ -53,23 +53,23 @@ export function Header({ onReportAdverseEvent, currentPage = 'home', onNavigate 
       {
         heading: 'THERAPEUTIC AREAS',
         items: [
-          { title: 'Cardiology', description: 'Heart & vascular', page: 'products', icon: Heart },
-          { title: 'Anti-Diabetic', description: 'Diabetes care', page: 'products', icon: Activity },
-          { title: 'Antibiotics', description: 'Antimicrobials', page: 'products', icon: Shield },
-          { title: 'Pain Management', description: 'Analgesics', page: 'products', icon: Pill },
+          { title: 'Cardiology', description: 'Heart & vascular', page: 'cardiology', icon: Heart },
+          { title: 'Anti-Diabetic', description: 'Diabetes care', page: 'anti-diabetic', icon: Activity },
+          { title: 'Antibiotics', description: 'Antimicrobials', page: 'antibiotics', icon: Shield },
+          { title: 'Pain Management', description: 'Analgesics', page: 'pain-management', icon: Pill },
         ]
       },
       {
         heading: 'PIPELINE',
         items: [
-          { title: 'R&D Pipeline', description: 'In development', page: 'rd', icon: Beaker },
-          { title: 'Clinical Trials', description: 'Active studies', page: 'rd', icon: Microscope },
+          { title: 'R&D Pipeline', description: 'In development', page: 'rd-pipeline', icon: Beaker },
+          { title: 'Clinical Trials', description: 'Active studies', page: 'clinical-trials-products', icon: Microscope },
         ]
       },
       {
         heading: 'ACTIONS',
         items: [
-          { title: 'Request Sample', description: 'For HCPs only', page: 'products', icon: Package },
+          { title: 'Request Sample', description: 'For HCPs only', page: 'request-sample', icon: Package },
         ]
       }
     ],
@@ -77,22 +77,22 @@ export function Header({ onReportAdverseEvent, currentPage = 'home', onNavigate 
       {
         heading: 'OVERVIEW',
         items: [
-          { title: 'Research Focus', description: 'Scientific approach', page: 'rd', icon: Microscope },
-          { title: 'Innovation', description: 'Development process', page: 'rd', icon: Beaker },
+          { title: 'Research Focus', description: 'Scientific approach', page: 'research-focus', icon: Microscope },
+          { title: 'Innovation', description: 'Development process', page: 'innovation', icon: Beaker },
         ]
       },
       {
         heading: 'DEVELOPMENT',
         items: [
-          { title: 'Clinical Trials', description: 'Study programs', page: 'rd', icon: FileText },
-          { title: 'Data Integrity', description: 'Quality protocols', page: 'rd', icon: Shield },
+          { title: 'Clinical Trials', description: 'Study programs', page: 'clinical-trials', icon: FileText },
+          { title: 'Data Integrity', description: 'Quality protocols', page: 'data-integrity', icon: Shield },
         ]
       },
       {
         heading: 'COLLABORATION',
         items: [
-          { title: 'Partnerships', description: 'Industry & academic', page: 'rd', icon: Users },
-          { title: 'Technology', description: 'Platform systems', page: 'rd', icon: Activity },
+          { title: 'Partnerships', description: 'Industry & academic', page: 'partnerships', icon: Users },
+          { title: 'Technology', description: 'Platform systems', page: 'technology', icon: Activity },
         ]
       }
     ],
@@ -101,20 +101,20 @@ export function Header({ onReportAdverseEvent, currentPage = 'home', onNavigate 
         heading: 'INFRASTRUCTURE',
         items: [
           { title: 'Manufacturing', description: 'Production units', page: 'manufacturing', icon: Factory },
-          { title: 'WHO-GMP', description: 'Certified facilities', page: 'manufacturing', icon: Award },
+          { title: 'WHO-GMP', description: 'Certified facilities', page: 'who-gmp', icon: Award },
         ]
       },
       {
         heading: 'QUALITY',
         items: [
-          { title: 'Quality Assurance', description: 'QA/QC systems', page: 'quality', icon: Shield },
-          { title: 'Certifications', description: 'ISO, GMP standards', page: 'quality', icon: Award },
+          { title: 'Quality Assurance', description: 'QA/QC systems', page: 'quality-assurance', icon: Shield },
+          { title: 'Certifications', description: 'ISO, GMP standards', page: 'certifications', icon: Award },
         ]
       },
       {
         heading: 'SUSTAINABILITY',
         items: [
-          { title: 'Green Practices', description: 'Eco-friendly ops', page: 'manufacturing', icon: Activity },
+          { title: 'Green Practices', description: 'Eco-friendly ops', page: 'green-practices', icon: Activity },
         ]
       }
     ],

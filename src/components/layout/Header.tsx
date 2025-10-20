@@ -123,29 +123,29 @@ export function Header({ onReportAdverseEvent, currentPage = 'home', onNavigate 
         heading: 'ABOUT',
         items: [
           { title: 'About Us', description: 'Our story', page: 'about', icon: Building2 },
-          { title: 'Mission & Values', description: 'What drives us', page: 'company', icon: Heart },
+          { title: 'Mission & Values', description: 'What drives us', page: 'mission-values', icon: Heart },
           { title: 'Gallery', description: 'Visual showcase', page: 'gallery', icon: ImageIcon },
         ]
       },
       {
         heading: 'LEADERSHIP',
         items: [
-          { title: 'Executive Team', description: 'Leadership profiles', page: 'leadership', icon: Users },
-          { title: 'Board', description: 'Governance', page: 'leadership', icon: Award },
+          { title: 'Executive Team', description: 'Leadership profiles', page: 'executive-team', icon: Users },
+          { title: 'Board', description: 'Governance', page: 'board', icon: Award },
         ]
       },
       {
         heading: 'GLOBAL',
         items: [
-          { title: 'Global Presence', description: 'Worldwide reach', page: 'company', icon: Globe },
-          { title: 'CSR', description: 'Social responsibility', page: 'company', icon: Heart },
+          { title: 'Global Presence', description: 'Worldwide reach', page: 'global-presence', icon: Globe },
+          { title: 'CSR', description: 'Social responsibility', page: 'csr', icon: Heart },
         ]
       },
       {
         heading: 'CAREERS',
         items: [
-          { title: 'Join Our Team', description: 'Career opportunities', page: 'careers', icon: Briefcase },
-          { title: 'Life at EDIF', description: 'Culture & values', page: 'careers', icon: Heart },
+          { title: 'Join Our Team', description: 'Career opportunities', page: 'join-our-team', icon: Briefcase },
+          { title: 'Life at EDIF', description: 'Culture & values', page: 'life-at-edif', icon: Heart },
         ]
       }
     ],
@@ -153,22 +153,22 @@ export function Header({ onReportAdverseEvent, currentPage = 'home', onNavigate 
       {
         heading: 'FOR PROFESSIONALS',
         items: [
-          { title: 'HCP Portal', description: 'Medical resources', page: 'resources', icon: User },
-          { title: 'Monographs', description: 'Prescribing info', page: 'resources', icon: BookOpen },
+          { title: 'HCP Portal', description: 'Medical resources', page: 'hcp-portal', icon: User },
+          { title: 'Monographs', description: 'Prescribing info', page: 'monographs', icon: BookOpen },
         ]
       },
       {
         heading: 'FOR PATIENTS',
         items: [
-          { title: 'Patient Info', description: 'Medication guides', page: 'resources', icon: FileText },
-          { title: 'Safety Info', description: 'Usage guidelines', page: 'resources', icon: Shield },
+          { title: 'Patient Info', description: 'Medication guides', page: 'patient-info', icon: FileText },
+          { title: 'Safety Info', description: 'Usage guidelines', page: 'safety-info', icon: Shield },
         ]
       },
       {
         heading: 'DOCUMENTS',
         items: [
-          { title: 'Regulatory', description: 'Certificates', page: 'quality', icon: FileText },
-          { title: 'SDS', description: 'Safety sheets', page: 'resources', icon: Download },
+          { title: 'Regulatory', description: 'Certificates', page: 'regulatory', icon: FileText },
+          { title: 'SDS', description: 'Safety sheets', page: 'sds', icon: Download },
         ]
       }
     ],
@@ -176,21 +176,21 @@ export function Header({ onReportAdverseEvent, currentPage = 'home', onNavigate 
       {
         heading: 'OVERVIEW',
         items: [
-          { title: 'Investor Relations', description: 'IR home', page: 'investors', icon: TrendingUp },
+          { title: 'Investor Relations', description: 'IR home', page: 'investor-relations', icon: TrendingUp },
         ]
       },
       {
         heading: 'FINANCIALS',
         items: [
-          { title: 'Reports', description: 'Financial statements', page: 'investors', icon: BarChart },
-          { title: 'Filings', description: 'SEC documents', page: 'investors', icon: FileText },
+          { title: 'Reports', description: 'Financial statements', page: 'reports', icon: BarChart },
+          { title: 'Filings', description: 'SEC documents', page: 'filings', icon: FileText },
         ]
       },
       {
         heading: 'CORPORATE',
         items: [
-          { title: 'News', description: 'Latest updates', page: 'investors', icon: Newspaper },
-          { title: 'Governance', description: 'Policies', page: 'investors', icon: Shield },
+          { title: 'News', description: 'Latest updates', page: 'investor-news', icon: Newspaper },
+          { title: 'Governance', description: 'Policies', page: 'governance', icon: Shield },
         ]
       }
     ],
@@ -198,15 +198,15 @@ export function Header({ onReportAdverseEvent, currentPage = 'home', onNavigate 
       {
         heading: 'GET IN TOUCH',
         items: [
-          { title: 'Contact Us', description: 'General inquiries', page: 'contact', icon: Phone },
+          { title: 'Contact Us', description: 'General inquiries', page: 'contact-us', icon: Phone },
           { title: 'Distributors', description: 'Partner with us', page: 'distributors', icon: Package },
         ]
       },
       {
         heading: 'SUPPORT',
         items: [
-          { title: 'Media', description: 'Press inquiries', page: 'contact', icon: Newspaper },
-          { title: 'Report AE', description: 'Safety reporting', page: 'contact', icon: AlertCircle },
+          { title: 'Media', description: 'Press inquiries', page: 'media', icon: Newspaper },
+          { title: 'Report AE', description: 'Safety reporting', page: 'report-ae', icon: AlertCircle },
         ]
       }
     ]
@@ -251,7 +251,7 @@ export function Header({ onReportAdverseEvent, currentPage = 'home', onNavigate 
           </button>
 
           {/* Desktop Navigation */}
-          <nav className="hidden xl:flex items-center justify-center flex-1" aria-label="Main navigation">
+          <nav className="hidden xl:flex items-center justify-end flex-1" aria-label="Main navigation">
             <div className="flex items-center gap-1">
               {mainNavItems.map((item) => (
                 <div

@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
-import { HCPResources } from '../components/common/HCPResources';
-import { PatientResources } from '../components/common/PatientResources';
-import { ResourcesSection } from '../components/common/ResourcesSection';
+import { HCPResources } from '../../../components/common/HCPResources';
+import { PatientResources } from '../../../components/common/PatientResources';
+import { ResourcesSection } from '../../../components/common/ResourcesSection';
 import { Stethoscope, HeartPulse, BookOpen, FileText } from 'lucide-react';
 
 export function ResourcesPage() {

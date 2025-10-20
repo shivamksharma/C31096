@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { RDPipeline } from '../components/common/RDPipeline';
+import { RDPipeline } from '../../../components/common/RDPipeline';
 import { Microscope, FlaskConical, Users, Award, TrendingUp, Target } from 'lucide-react';
 
 export function RDPage() {

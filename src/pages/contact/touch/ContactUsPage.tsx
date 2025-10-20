@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 import { Mail, Phone, MapPin, Clock, Send, Building2, Headphones } from 'lucide-react';
 import { useState } from 'react';
-import { Button } from '../components/ui/button';
+import { Button } from '../../../components';
 import { toast } from 'sonner';
 
 export function ContactUsPage() {

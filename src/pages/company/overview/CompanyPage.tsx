@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
-import { AboutUs } from '../components/common/AboutUs';
-import { Gallery } from '../components/common/Gallery';
-import { GlobalPresence } from '../components/common/GlobalPresence';
+import { AboutUs } from '../../../components/common/AboutUs';
+import { Gallery } from '../../../components/common/Gallery';
+import { GlobalPresence } from '../../../components/common/GlobalPresence';
 import { Building2, Users, Globe, Award } from 'lucide-react';
 
 export function CompanyPage() {

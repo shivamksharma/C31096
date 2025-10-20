@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import { ArrowRight, MapPin, Clock, Briefcase, Heart, Users, TrendingUp, Award } from 'lucide-react';
-import { Button } from '../components/ui/button';
+import { Button } from '../../../components';
 
 export function CareersPage() {
   const openPositions = [

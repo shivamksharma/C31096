@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import { Shield, Award, Users, Globe, Heart, TrendingUp, Target, Lightbulb } from 'lucide-react';
-import { ImageWithFallback } from '../components/figma/ImageWithFallback';
+import { ImageWithFallback } from '../../../components/figma/ImageWithFallback';
 
 export function AboutUsPage() {
   const values = [

@@ -19,5 +19,4 @@ export { ResourcesSection } from './ResourcesSection';
 export { SampleRequestModal } from './SampleRequestModal';
 export { TestimonialsSection } from './TestimonialsSection';
 export { TherapeuticAreas } from './TherapeuticAreas';
-export { PVFloatingButton } from './PVFloatingButton';
 export { PVFormModal } from './PVFormModal';

@@ -73,7 +73,7 @@ export function HCPResources() {
       title: 'Upcoming Medical Congress Schedule',
       category: 'CME Programs',
       type: 'Calendar',
-      description: 'EDIF Pharma sponsored medical conferences and symposiums',
+      description: 'PharmaCorp sponsored medical conferences and symposiums',
       icon: Calendar,
     },
   ];

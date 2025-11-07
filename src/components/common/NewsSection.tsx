@@ -5,7 +5,7 @@ import { Calendar, ArrowRight, Newspaper } from 'lucide-react';
 export function NewsSection() {
   const newsItems = [
     {
-      title: 'EDIF Pharma receives WHO-GMP recertification for all facilities',
+      title: 'PharmaCorp receives WHO-GMP recertification for all facilities',
       summary: 'Successful completion of comprehensive quality audits across manufacturing sites',
       date: '15 Oct 2025',
       category: 'Quality',

@@ -5,7 +5,7 @@ import { Button } from '../ui/button';
 export function Facilities() {
   const facilities = [
     {
-      name: 'EDIF Pharma Unit I',
+      name: 'PharmaCorp Unit I',
       location: 'Baddi, Himachal Pradesh, India',
       area: '75,000 sq ft',
       image: 'https://images.unsplash.com/photo-1748000970909-845f4aa144d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjbGVhbiUyMHJvb20lMjBtYW51ZmFjdHVyaW5nfGVufDF8fHx8MTc2MDcyODIzM3ww&ixlib=rb-4.1.0&q=80&w=1080',
@@ -20,7 +20,7 @@ export function Facilities() {
       ],
     },
     {
-      name: 'EDIF Pharma Unit II',
+      name: 'PharmaCorp Unit II',
       location: 'Paonta Sahib, Himachal Pradesh, India',
       area: '120,000 sq ft',
       image: 'https://images.unsplash.com/photo-1630396814511-340128f6300a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwaGFybWFjZXV0aWNhbCUyMG1hbnVmYWN0dXJpbmclMjBmYWNpbGl0eXxlbnwxfHx8fDE3NjA3MjgwNTV8MA&ixlib=rb-4.1.0&q=80&w=1080',
@@ -35,7 +35,7 @@ export function Facilities() {
       ],
     },
     {
-      name: 'EDIF Pharma Unit III',
+      name: 'PharmaCorp Unit III',
       location: 'SEZ Indore, Madhya Pradesh, India',
       area: '200,000 sq ft',
       image: 'https://images.unsplash.com/photo-1758269445774-61a540a290a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjBmYWN0b3J5JTIwcHJvZHVjdGlvbnxlbnwxfHx8fDE3NjA3MDUzMTV8MA&ixlib=rb-4.1.0&q=80&w=1080',

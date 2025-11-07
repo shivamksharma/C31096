@@ -7,7 +7,7 @@ interface FooterProps {
 export function Footer({ onNavigate }: FooterProps) {
   const footerLinks = {
     company: [
-      { label: 'About EDIF', page: 'company' },
+      { label: 'About PharmaCorp', page: 'company' },
       { label: 'Leadership', page: 'leadership' },
       { label: 'Careers', page: 'careers' },
       { label: 'Contact', page: 'contact' },
@@ -115,7 +115,7 @@ export function Footer({ onNavigate }: FooterProps) {
             <h4 className="font-semibold mb-4">Contact</h4>
             <div className="space-y-3 text-sm text-white/70">
               <p>
-                EDIF Medical Systems<br />
+                PharmaCorp<br />
                 Pharmaceutical Division
               </p>
               <p>
@@ -152,7 +152,7 @@ export function Footer({ onNavigate }: FooterProps) {
         {/* Bottom Bar */}
         <div className="border-t border-white/20 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-white/60">
-            <p>© 2025 EDIF Medical Systems. All rights reserved.</p>
+            <p>            <p>© 2025 PharmaCorp. All rights reserved.</p></p>
             <p className="text-xs">
               This website is intended for healthcare professionals and authorized distributors.
             </p>

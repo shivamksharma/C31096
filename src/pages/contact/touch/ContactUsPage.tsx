@@ -25,7 +25,7 @@ export function ContactUsPage() {
       address: '123 Pharmaceutical Way, Medical District',
       city: 'Metropolitan City, Country 12345',
       phone: '+1 (555) 123-4567',
-      email: 'info@edifpharma.com',
+      email: 'info@pharmacorp.com',
       hours: 'Mon-Fri: 8:00 AM - 6:00 PM'
     },
     {
@@ -33,7 +33,7 @@ export function ContactUsPage() {
       address: '45 Research Boulevard',
       city: 'Geneva, Switzerland',
       phone: '+41 22 555 0123',
-      email: 'europe@edifpharma.com',
+      email: 'europe@pharmacorp.com',
       hours: 'Mon-Fri: 9:00 AM - 5:00 PM CET'
     },
     {
@@ -41,7 +41,7 @@ export function ContactUsPage() {
       address: '78 Innovation Street',
       city: 'Singapore 098765',
       phone: '+65 6555 7890',
-      email: 'apac@edifpharma.com',
+      email: 'apac@pharmacorp.com',
       hours: 'Mon-Fri: 8:30 AM - 5:30 PM SGT'
     }
   ];
@@ -50,19 +50,19 @@ export function ContactUsPage() {
     {
       icon: Building2,
       title: 'Business Development',
-      email: 'partnerships@edifpharma.com',
+      email: 'partnerships@pharmacorp.com',
       description: 'Partnership opportunities and distributor inquiries'
     },
     {
       icon: Headphones,
       title: 'Customer Support',
-      email: 'support@edifpharma.com',
+      email: 'support@pharmacorp.com',
       description: 'Product information and order assistance'
     },
     {
       icon: Mail,
       title: 'Medical Information',
-      email: 'medical@edifpharma.com',
+      email: 'medical@pharmacorp.com',
       description: 'Clinical inquiries and pharmacovigilance'
     }
   ];
@@ -82,7 +82,7 @@ export function ContactUsPage() {
               <span className="text-sm tracking-wide">GET IN TOUCH</span>
             </div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl mb-6">
-              Contact EDIF Pharma
+              Contact PharmaCorp
             </h1>
             <p className="text-lg text-white/80 leading-relaxed">
               Connect with our team for product inquiries, partnership opportunities, or general information. 
@@ -258,8 +258,8 @@ export function ContactUsPage() {
                   </div>
                   <div className="flex items-center gap-3">
                     <Mail size={18} strokeWidth={2} />
-                    <a href="mailto:emergency@edifpharma.com" className="hover:opacity-70 transition-opacity">
-                      emergency@edifpharma.com
+                    <a href="mailto:emergency@pharmacorp.com" className="hover:opacity-70 transition-opacity">
+                      emergency@pharmacorp.com
                     </a>
                   </div>
                 </div>

@@ -86,21 +86,21 @@ export function GlobalPresencePage() {
       city: 'Boston, MA',
       address: '123 Innovation Drive, Cambridge, MA 02139',
       phone: '+1 (617) 555-0123',
-      email: 'americas@edifpharma.com'
+      email: 'americas@pharmacorp.com'
     },
     {
       region: 'Europe',
       city: 'Frankfurt, Germany',
       address: 'Musterstraße 45, 60313 Frankfurt am Main',
       phone: '+49 69 555 0123',
-      email: 'europe@edifpharma.com'
+      email: 'europe@pharmacorp.com'
     },
     {
       region: 'Asia Pacific',
       city: 'Singapore',
       address: '1 Marina Boulevard, #28-00, Singapore 018989',
       phone: '+65 6555 0123',
-      email: 'asiapacific@edifpharma.com'
+      email: 'asiapacific@pharmacorp.com'
     }
   ];
 

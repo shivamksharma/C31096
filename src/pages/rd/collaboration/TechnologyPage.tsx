@@ -121,7 +121,7 @@ export function TechnologyPage() {
               Technology Platform
             </h1>
             <p className="text-lg text-white/80 leading-relaxed mb-8">
-              At EDIF Pharma, technology is the foundation of our innovation. Our advanced
+              At PharmaCorp, technology is the foundation of our innovation. Our advanced
               digital platforms leverage AI, cloud computing, and data analytics to accelerate
               drug discovery, optimize clinical trials, and deliver personalized medicine solutions
               that transform patient care worldwide.

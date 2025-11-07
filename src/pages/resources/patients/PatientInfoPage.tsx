@@ -112,14 +112,14 @@ export function PatientInfoPage() {
     {
       title: 'Patient Support Hotline',
       description: 'Speak with a patient support specialist',
-      contact: '1-800-EDIF-HELP',
+      contact: '1-800-PC-HELP',
       hours: 'Mon-Fri 8AM-8PM EST',
       icon: Phone
     },
     {
       title: 'Email Support',
       description: 'Send us your questions via email',
-      contact: 'patientsupport@edifpharma.com',
+      contact: 'patientsupport@pharmacorp.com',
       hours: '24/7 Response within 24 hours',
       icon: Mail
     },

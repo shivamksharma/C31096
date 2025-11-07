@@ -90,7 +90,7 @@ export function CareersPage() {
             className="max-w-3xl"
           >
             <div className="inline-block px-4 py-2 bg-white/10 backdrop-blur-sm mb-6">
-              <span className="text-sm tracking-wide">CAREERS AT EDIF PHARMA</span>
+              <span className="text-sm tracking-wide">CAREERS AT PHARMACORP</span>
             </div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl mb-6">
               Join Our Mission to Heal
@@ -110,7 +110,7 @@ export function CareersPage() {
         </div>
       </section>
 
-      {/* Why Join EDIF */}
+      {/* Why Join PharmaCorp */}
       <section className="py-20 md:py-32 bg-white">
         <div className="max-w-[1200px] mx-auto px-6">
           <motion.div
@@ -121,7 +121,7 @@ export function CareersPage() {
             className="text-center mb-16"
           >
             <div className="inline-block px-4 py-2 bg-[var(--brand-blue)]/10 mb-4">
-              <span className="text-sm text-[var(--brand-blue)] tracking-wide">WHY EDIF PHARMA</span>
+              <span className="text-sm text-[var(--brand-blue)] tracking-wide">WHY PHARMACORP</span>
             </div>
             <h2 className="text-3xl md:text-4xl text-[var(--text-900)] mb-4">
               What Makes Us Different

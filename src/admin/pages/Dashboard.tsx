@@ -52,10 +52,10 @@ const pipelineData = [
 ];
 
 const recentActivities = [
-  { id: 1, action: 'New product added', item: 'EDIF-2024-001', time: '2 hours ago', type: 'product' },
+  { id: 1, action: 'New product added', item: 'PC-2024-001', time: '2 hours ago', type: 'product' },
   { id: 2, action: 'Certificate uploaded', item: 'ISO 9001:2024', time: '4 hours ago', type: 'certificate' },
   { id: 3, action: 'Testimonial approved', item: 'Dr. Sarah Johnson', time: '6 hours ago', type: 'testimonial' },
-  { id: 4, action: 'Pipeline updated', item: 'EDIF-2023-005', time: '1 day ago', type: 'pipeline' },
+  { id: 4, action: 'Pipeline updated', item: 'PC-2023-005', time: '1 day ago', type: 'pipeline' },
 ];
 
 export default function Dashboard() {

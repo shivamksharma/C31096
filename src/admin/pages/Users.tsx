@@ -15,7 +15,7 @@ const users = [
   {
     id: '1',
     name: 'Dr. Sarah Johnson',
-    email: 'sarah.johnson@edifpharma.com',
+    email: 'sarah.johnson@pharmacorp.com',
     role: 'Admin',
     status: 'Active',
     lastLogin: '2024-01-20 14:30',
@@ -26,7 +26,7 @@ const users = [
   {
     id: '2',
     name: 'Michael Chen',
-    email: 'michael.chen@edifpharma.com',
+    email: 'michael.chen@pharmacorp.com',
     role: 'Editor',
     status: 'Active',
     lastLogin: '2024-01-19 09:15',
@@ -37,7 +37,7 @@ const users = [
   {
     id: '3',
     name: 'Lisa Rodriguez',
-    email: 'lisa.rodriguez@edifpharma.com',
+    email: 'lisa.rodriguez@pharmacorp.com',
     role: 'Editor',
     status: 'Inactive',
     lastLogin: '2024-01-10 16:45',
@@ -117,7 +117,7 @@ export default function Users() {
               </div>
               <div>
                 <Label htmlFor="email">Email</Label>
-                <Input id="email" type="email" placeholder="john.doe@edifpharma.com" />
+                <Input id="email" type="email" placeholder="john.doe@pharmacorp.com" />
               </div>
               <div>
                 <Label htmlFor="role">Role</Label>
@@ -324,7 +324,7 @@ export default function Users() {
               </div>
               <div className="flex-1">
                 <p className="text-sm font-medium">Product updated</p>
-                <p className="text-sm text-gray-600">Lisa Rodriguez updated EDIF-Cardio Plus product information</p>
+                <p className="text-sm text-gray-600">Lisa Rodriguez updated PC-Cardio Plus product information</p>
               </div>
               <span className="text-sm text-gray-500">4 hours ago</span>
             </div>

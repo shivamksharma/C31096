@@ -34,7 +34,7 @@ export function TestimonialsSection() {
               What Healthcare Professionals Say
             </h2>
             <p className="text-lg text-[var(--text-900)] opacity-70">
-              Hear from medical professionals who trust EDIF Pharma for their patients' care.
+              Hear from medical professionals who trust PharmaCorp for their patients' care.
             </p>
           </motion.div>
         </div>

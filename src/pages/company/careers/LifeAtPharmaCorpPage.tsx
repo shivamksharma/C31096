@@ -2,7 +2,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import { Heart, Users, Coffee, Award, Zap, Globe, Smile, Target, Lightbulb } from 'lucide-react';
 
-export function LifeAtEDIFPage() {
+export function LifeAtPharmaCorpPage() {
   const fadeInUp = {
     initial: { opacity: 0, y: 20 },
     animate: { opacity: 1, y: 0 },
@@ -55,7 +55,7 @@ export function LifeAtEDIFPage() {
       name: 'Dr. Sarah Martinez',
       role: 'Research Scientist',
       image: '/api/placeholder/150/150',
-      quote: 'At EDIF, I have the freedom to pursue groundbreaking research while being supported by an incredible team. The collaborative environment here is truly special.',
+      quote: 'At PharmaCorp, I have the freedom to pursue groundbreaking research while being supported by an incredible team. The collaborative environment here is truly special.',
       highlight: 'Led breakthrough research on novel drug delivery systems'
     },
     {
@@ -69,7 +69,7 @@ export function LifeAtEDIFPage() {
       name: 'Dr. Maria Rodriguez',
       role: 'Regulatory Affairs Director',
       image: '/api/placeholder/150/150',
-      quote: 'EDIF values expertise and empowers its employees to make meaningful contributions. It\'s inspiring to work on projects that directly impact patient care.',
+      quote: 'PharmaCorp values expertise and empowers its employees to make meaningful contributions. It\'s inspiring to work on projects that directly impact patient care.',
       highlight: 'Achieved 5 FDA approvals in 3 years'
     }
   ];
@@ -136,7 +136,7 @@ export function LifeAtEDIFPage() {
               className="text-4xl lg:text-6xl font-bold mb-6"
               {...fadeInUp}
             >
-              Life at EDIF
+              Life at PharmaCorp
             </motion.h1>
             <motion.p
               className="text-xl lg:text-2xl opacity-90 leading-relaxed"
@@ -235,7 +235,7 @@ export function LifeAtEDIFPage() {
               Voices from Our Team
             </h2>
             <p className="text-lg text-[var(--text-600)] max-w-3xl mx-auto">
-              Hear from the people who make EDIF Pharma a special place to work.
+              Hear from the people who make PharmaCorp a special place to work.
             </p>
           </motion.div>
 

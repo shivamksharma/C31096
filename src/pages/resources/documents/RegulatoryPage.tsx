@@ -361,7 +361,7 @@ export function RegulatoryPage() {
               Global Regulatory Authorities
             </h2>
             <p className="text-lg text-[var(--text-900)]/60 max-w-2xl mx-auto">
-              EDIF Pharma complies with regulatory standards from leading global health authorities.
+              PharmaCorp complies with regulatory standards from leading global health authorities.
             </p>
           </motion.div>
 

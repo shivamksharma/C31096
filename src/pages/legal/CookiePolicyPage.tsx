@@ -94,7 +94,7 @@ export function CookiePolicyPage() {
               Cookie Policy
             </h1>
             <p className="text-lg text-white/80 leading-relaxed">
-              Learn about how EDIF Pharma uses cookies and similar technologies to enhance your website experience.
+              Learn about how PharmaCorp uses cookies and similar technologies to enhance your website experience.
             </p>
             <p className="text-sm text-white/60 mt-4">
               Effective Date: January 1, 2025 | Last Updated: January 1, 2025
@@ -122,7 +122,7 @@ export function CookiePolicyPage() {
               industry regulations regarding content delivery to healthcare professionals.
             </p>
             <p className="text-[var(--text-900)]/70 leading-relaxed">
-              We use both first-party cookies (set by EDIF Pharma) and third-party cookies (set by our service providers) 
+              We use both first-party cookies (set by PharmaCorp) and third-party cookies (set by our service providers) 
               for various purposes detailed below.
             </p>
           </motion.div>
@@ -329,7 +329,7 @@ export function CookiePolicyPage() {
               If you have questions about our use of cookies, please contact:
             </p>
             <div className="space-y-2 text-[var(--text-900)]/70">
-              <p><strong>Email:</strong> privacy@edifpharma.com</p>
+              <p><strong>Email:</strong> privacy@pharmacorp.com</p>
               <p><strong>Phone:</strong> +1 (555) 123-4567</p>
             </div>
           </motion.div>

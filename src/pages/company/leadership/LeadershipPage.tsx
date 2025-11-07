@@ -6,10 +6,10 @@ export function LeadershipPage() {
     {
       name: 'Dr. Sarah Mitchell',
       role: 'Chief Executive Officer',
-      bio: 'Leading EDIF Pharma\'s global strategy with 25+ years in pharmaceutical innovation. Former VP at major pharma companies, PhD in Pharmaceutical Sciences from MIT.',
+      bio: 'Leading PharmaCorp\'s global strategy with 25+ years in pharmaceutical innovation. Former VP at major pharma companies, PhD in Pharmaceutical Sciences from MIT.',
       image: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&h=400&fit=crop',
       linkedin: '#',
-      email: 's.mitchell@edifpharma.com'
+      email: 's.mitchell@pharmacorp.com'
     },
     {
       name: 'Dr. James Chen',
@@ -17,7 +17,7 @@ export function LeadershipPage() {
       bio: 'Driving R&D excellence and innovation pipeline. 30+ publications in leading journals, pioneer in targeted drug delivery systems.',
       image: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop',
       linkedin: '#',
-      email: 'j.chen@edifpharma.com'
+      email: 'j.chen@pharmacorp.com'
     },
     {
       name: 'Maria Rodriguez',
@@ -25,7 +25,7 @@ export function LeadershipPage() {
       bio: 'Overseeing global manufacturing and supply chain operations. WHO-GMP certification expert with track record in operational excellence.',
       image: 'https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400&h=400&fit=crop',
       linkedin: '#',
-      email: 'm.rodriguez@edifpharma.com'
+      email: 'm.rodriguez@pharmacorp.com'
     },
     {
       name: 'Dr. Amit Patel',
@@ -33,7 +33,7 @@ export function LeadershipPage() {
       bio: 'Leading clinical development and medical affairs. Board-certified physician with expertise in pharmacovigilance and regulatory compliance.',
       image: 'https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=400&h=400&fit=crop',
       linkedin: '#',
-      email: 'a.patel@edifpharma.com'
+      email: 'a.patel@pharmacorp.com'
     },
     {
       name: 'Lisa Thompson',
@@ -41,7 +41,7 @@ export function LeadershipPage() {
       bio: 'Guiding financial strategy and investor relations. Former investment banker with deep pharmaceutical sector expertise.',
       image: 'https://images.unsplash.com/photo-1607746882042-944635dfe10e?w=400&h=400&fit=crop',
       linkedin: '#',
-      email: 'l.thompson@edifpharma.com'
+      email: 'l.thompson@pharmacorp.com'
     },
     {
       name: 'David Kim',
@@ -49,7 +49,7 @@ export function LeadershipPage() {
       bio: 'Ensuring highest quality standards across all operations. Quality systems architect with multiple regulatory approvals experience.',
       image: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop',
       linkedin: '#',
-      email: 'd.kim@edifpharma.com'
+      email: 'd.kim@pharmacorp.com'
     }
   ];
 

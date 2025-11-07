@@ -556,7 +556,7 @@ export function RequestSamplePage() {
               Start Your Sample Request
             </h2>
             <p className="text-lg text-white/80 mb-8 max-w-2xl mx-auto">
-              Join thousands of healthcare professionals who trust EDIF Pharma
+              Join thousands of healthcare professionals who trust PharmaCorp
               for quality samples and comprehensive medical information.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">

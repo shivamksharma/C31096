@@ -97,7 +97,7 @@ export function ExecutiveTeamPage() {
               {...fadeInUp}
               transition={{ delay: 0.2 }}
             >
-              Meet the visionary leaders driving EDIF Pharma's mission to advance global healthcare through innovation and excellence.
+              Meet the visionary leaders driving PharmaCorp's mission to advance global healthcare through innovation and excellence.
             </motion.p>
           </div>
         </div>

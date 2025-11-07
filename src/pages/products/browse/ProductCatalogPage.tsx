@@ -5,7 +5,7 @@ export function ProductCatalogPage() {
   const catalogSections = [
     {
       title: 'Complete Product Portfolio',
-      description: 'Comprehensive catalog of all EDIF Pharma products with detailed specifications',
+      description: 'Comprehensive catalog of all PharmaCorp products with detailed specifications',
       pages: 120,
       size: '8.5 MB',
       format: 'PDF',

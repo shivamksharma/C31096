@@ -59,7 +59,7 @@ export function RDPPipelinePage() {
     {
       area: 'Cardiovascular',
       focus: 'Novel anti-hypertensives and heart failure therapies',
-      molecules: ['EDIF-101', 'EDIF-102', 'EDIF-103'],
+      molecules: ['PC-101', 'PC-102', 'PC-103'],
       stage: 'Phase 2',
       timeline: '2024-2026',
       investment: '$45M',
@@ -69,7 +69,7 @@ export function RDPPipelinePage() {
     {
       area: 'Metabolic Disorders',
       focus: 'Next-generation diabetes and obesity treatments',
-      molecules: ['EDIF-201', 'EDIF-202'],
+      molecules: ['PC-201', 'PC-202'],
       stage: 'Phase 1',
       timeline: '2023-2025',
       investment: '$32M',
@@ -79,7 +79,7 @@ export function RDPPipelinePage() {
     {
       area: 'Infectious Diseases',
       focus: 'Antimicrobial resistance solutions and novel antibiotics',
-      molecules: ['EDIF-301', 'EDIF-302', 'EDIF-303'],
+      molecules: ['PC-301', 'PC-302', 'PC-303'],
       stage: 'Discovery',
       timeline: '2024-2028',
       investment: '$28M',
@@ -89,7 +89,7 @@ export function RDPPipelinePage() {
     {
       area: 'Neurology',
       focus: 'Neurodegenerative disease modifiers and pain therapies',
-      molecules: ['EDIF-401', 'EDIF-402'],
+      molecules: ['PC-401', 'PC-402'],
       stage: 'Pre-clinical',
       timeline: '2023-2027',
       investment: '$38M',
@@ -151,7 +151,7 @@ export function RDPPipelinePage() {
     {
       year: '2025',
       achievements: [
-        'Expected IND filing for EDIF-101',
+        'Expected IND filing for PC-101',
         'Launch organ-on-chip platform',
         'Complete Phase 2 for diabetes program',
         'Expand global clinical operations'

@@ -96,7 +96,7 @@ export function InvestorsPage() {
               Investment Highlights
             </h2>
             <p className="text-lg text-[var(--text-900)] opacity-70 max-w-3xl mx-auto leading-relaxed">
-              Key factors that make EDIF Pharma an attractive investment opportunity 
+              Key factors that make PharmaCorp an attractive investment opportunity 
               in the pharmaceutical sector.
             </p>
           </motion.div>

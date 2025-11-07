@@ -74,11 +74,11 @@ export function DistributorPortalPage() {
   ];
 
   const regions = [
-    { region: 'North America', contact: 'na.distribution@edifpharma.com', territories: '15+' },
-    { region: 'Europe', contact: 'eu.distribution@edifpharma.com', territories: '30+' },
-    { region: 'Asia-Pacific', contact: 'apac.distribution@edifpharma.com', territories: '25+' },
-    { region: 'Latin America', contact: 'latam.distribution@edifpharma.com', territories: '18+' },
-    { region: 'Middle East & Africa', contact: 'mea.distribution@edifpharma.com', territories: '35+' }
+    { region: 'North America', contact: 'na.distribution@pharmacorp.com', territories: '15+' },
+    { region: 'Europe', contact: 'eu.distribution@pharmacorp.com', territories: '30+' },
+    { region: 'Asia-Pacific', contact: 'apac.distribution@pharmacorp.com', territories: '25+' },
+    { region: 'Latin America', contact: 'latam.distribution@pharmacorp.com', territories: '18+' },
+    { region: 'Middle East & Africa', contact: 'mea.distribution@pharmacorp.com', territories: '35+' }
   ];
 
   const handleLogin = (e: React.FormEvent) => {
@@ -248,7 +248,7 @@ export function DistributorPortalPage() {
               <span className="text-sm text-[var(--brand-blue)] tracking-wide">PARTNERSHIP BENEFITS</span>
             </div>
             <h2 className="text-3xl md:text-4xl text-[var(--text-900)] mb-4">
-              Why Partner with EDIF Pharma
+              Why Partner with PharmaCorp
             </h2>
           </motion.div>
 

@@ -78,14 +78,14 @@ export function InvestorRelationsPage() {
       title: 'Investor Relations',
       name: 'Rajesh Kumar',
       position: 'Head of Investor Relations',
-      email: 'investors@edifpharma.com',
+      email: 'investors@pharmacorp.com',
       phone: '+91 22 5555 0123'
     },
     {
       title: 'Financial Communications',
       name: 'Priya Sharma',
       position: 'Director, Corporate Communications',
-      email: 'communications@edifpharma.com',
+      email: 'communications@pharmacorp.com',
       phone: '+91 22 5555 0124'
     }
   ];
@@ -119,7 +119,7 @@ export function InvestorRelationsPage() {
               Building Value Together
             </h1>
             <p className="text-lg text-white/80 leading-relaxed max-w-3xl mx-auto">
-              Discover EDIF Pharma's commitment to transparency, growth, and shareholder value.
+              Discover PharmaCorp's commitment to transparency, growth, and shareholder value.
               Access financial reports, corporate governance information, and the latest company news.
             </p>
           </motion.div>
@@ -183,7 +183,7 @@ export function InvestorRelationsPage() {
               <span className="text-sm text-[var(--brand-blue)] tracking-wide">COMPANY STRENGTHS</span>
             </div>
             <h2 className="text-3xl md:text-4xl text-[var(--text-900)] mb-4">
-              Why Invest in EDIF Pharma
+              Why Invest in PharmaCorp
             </h2>
           </motion.div>
 

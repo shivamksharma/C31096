@@ -36,7 +36,7 @@ export function PartnershipsPage() {
   const strategicInitiatives = [
     {
       title: 'Open Innovation Platform',
-      description: 'Digital platform connecting EDIF Pharma with global innovation ecosystem',
+      description: 'Digital platform connecting PharmaCorp with global innovation ecosystem',
       features: ['Technology scouting', 'Collaboration matchmaking', 'IP management', 'Joint venture formation'],
       impact: '50+ active partnerships, $200M+ in collaborative R&D investment'
     },

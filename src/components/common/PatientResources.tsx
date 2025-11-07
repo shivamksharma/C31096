@@ -57,7 +57,7 @@ export function PatientResources() {
     },
     {
       question: 'How do I report a side effect or adverse event?',
-      answer: 'If you experience any unexpected or severe side effects, contact your healthcare provider immediately. You can also report adverse events directly to EDIF Pharma through our pharmacovigilance system via phone, email, or the adverse event reporting form on this website. Your report helps us ensure medication safety for all patients.',
+      answer: 'If you experience any unexpected or severe side effects, contact your healthcare provider immediately. You can also report adverse events directly to PharmaCorp through our pharmacovigilance system via phone, email, or the adverse event reporting form on this website. Your report helps us ensure medication safety for all patients.',
     },
     {
       question: 'Can I travel with my medications?',
@@ -82,7 +82,7 @@ export function PatientResources() {
       title: 'Email Support',
       description: 'Get answers to your questions via email',
       availability: 'Response within 24-48 hours',
-      contact: 'patients@edifpharma.com',
+      contact: 'patients@pharmacorp.com',
     },
     {
       icon: AlertCircle,

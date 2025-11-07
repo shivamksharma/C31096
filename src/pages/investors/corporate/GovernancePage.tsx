@@ -190,7 +190,7 @@ export function GovernancePage() {
               Commitment to Excellence
             </h1>
             <p className="text-lg text-white/80 leading-relaxed">
-              EDIF Pharma maintains the highest standards of corporate governance, ensuring transparency,
+              PharmaCorp maintains the highest standards of corporate governance, ensuring transparency,
               accountability, and ethical business practices across all operations.
             </p>
           </motion.div>

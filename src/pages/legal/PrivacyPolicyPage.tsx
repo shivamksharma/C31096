@@ -71,7 +71,7 @@ export function PrivacyPolicyPage() {
       content: [
         {
           subtitle: 'Access & Correction',
-          text: 'You have the right to access, update, or correct your personal information. Contact our privacy team at privacy@edifpharma.com.'
+          text: 'You have the right to access, update, or correct your personal information. Contact our privacy team at privacy@pharmacorp.com.'
         },
         {
           subtitle: 'Data Portability',
@@ -107,7 +107,7 @@ export function PrivacyPolicyPage() {
               Privacy Policy
             </h1>
             <p className="text-lg text-white/80 leading-relaxed">
-              EDIF Pharma is committed to protecting your privacy and handling your personal information with transparency and care.
+              PharmaCorp is committed to protecting your privacy and handling your personal information with transparency and care.
             </p>
             <p className="text-sm text-white/60 mt-4">
               Effective Date: January 1, 2025 | Last Updated: January 1, 2025
@@ -127,7 +127,7 @@ export function PrivacyPolicyPage() {
             className="prose prose-lg max-w-none"
           >
             <p className="text-[var(--text-900)]/70 leading-relaxed">
-              This Privacy Policy describes how EDIF Medical Systems Pharmaceutical Division ("EDIF Pharma," "we," "us," or "our") 
+              This Privacy Policy describes how PharmaCorp Pharmaceutical Division ("PharmaCorp," "we," "us," or "our") 
               collects, uses, discloses, and protects personal information when you visit our website or interact with our services. 
               This policy applies to healthcare professionals, patients, distributors, investors, and all website visitors.
             </p>
@@ -260,9 +260,9 @@ export function PrivacyPolicyPage() {
               For questions about this Privacy Policy or to exercise your privacy rights, please contact our Data Protection Officer:
             </p>
             <div className="space-y-2 text-[var(--text-900)]/70">
-              <p><strong>Email:</strong> privacy@edifpharma.com</p>
+              <p><strong>Email:</strong> privacy@pharmacorp.com</p>
               <p><strong>Phone:</strong> +1 (555) 123-4567</p>
-              <p><strong>Mail:</strong> Data Protection Officer, EDIF Medical Systems, 123 Pharmaceutical Way, Metropolitan City, Country 12345</p>
+              <p><strong>Mail:</strong> Data Protection Officer, PharmaCorp, 123 Pharmaceutical Way, Metropolitan City, Country 12345</p>
             </div>
           </motion.div>
         </div>

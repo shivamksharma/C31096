@@ -11,8 +11,8 @@ export function CTASection({ onRequestSample }: CTASectionProps) {
     {
       icon: Mail,
       title: 'Email Us',
-      description: 'sales@edifpharma.com',
-      action: 'mailto:sales@edifpharma.com',
+      description: 'sales@pharmacorp.com',
+      action: 'mailto:sales@pharmacorp.com',
     },
     {
       icon: Phone,
@@ -68,7 +68,7 @@ export function CTASection({ onRequestSample }: CTASectionProps) {
                   <span className="text-sm text-white">Get Started Today</span>
                 </div>
                 <h2 className="text-3xl md:text-4xl lg:text-5xl text-white mb-4">
-                  Partner with EDIF Pharma
+                  Partner with PharmaCorp
                 </h2>
                 <p className="text-lg text-white/80 leading-relaxed">
                   Join healthcare professionals worldwide who trust us for quality pharmaceutical solutions. 

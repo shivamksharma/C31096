@@ -33,7 +33,7 @@ export { MissionValuesPage } from './company/overview/MissionValuesPage';
 export { ExecutiveTeamPage } from './company/leadership/ExecutiveTeamPage';
 export { BoardPage } from './company/leadership/BoardPage';
 export { JoinOurTeamPage } from './company/careers/JoinOurTeamPage';
-export { LifeAtEDIFPage } from './company/careers/LifeAtEDIFPage';
+export { LifeAtPharmaCorpPage } from './company/careers/LifeAtPharmaCorpPage';
 export { GlobalPresencePage } from './company/global/GlobalPresencePage';
 export { CSRPage } from './company/global/CSRPage';
 export { WhoGmpPage } from './facilities/infrastructure/WhoGmpPage';

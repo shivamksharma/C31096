@@ -14,7 +14,7 @@ import { Plus, Search, Edit, Trash2, Eye } from 'lucide-react';
 const products = [
   {
     id: '1',
-    name: 'EDIF-Cardio Plus',
+    name: 'PC-Cardio Plus',
     category: 'Cardiovascular',
     status: 'Active',
     price: '$299.99',
@@ -23,7 +23,7 @@ const products = [
   },
   {
     id: '2',
-    name: 'EDIF-Neuro Max',
+    name: 'PC-Neuro Max',
     category: 'Neurology',
     status: 'Active',
     price: '$399.99',
@@ -32,7 +32,7 @@ const products = [
   },
   {
     id: '3',
-    name: 'EDIF-Derma Care',
+    name: 'PC-Derma Care',
     category: 'Dermatology',
     status: 'Inactive',
     price: '$199.99',

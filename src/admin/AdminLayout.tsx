@@ -53,7 +53,7 @@ export default function AdminLayout({ children }: AdminLayoutProps) {
       <div className="flex h-16 items-center border-b px-4">
         <div className="flex items-center space-x-2">
           <div className="h-8 w-8 rounded bg-blue-600 flex items-center justify-center">
-            <span className="text-white font-bold text-sm">EDIF</span>
+            <span className="text-white font-bold text-sm">PC</span>
           </div>
           <span className="font-semibold text-lg">Admin Panel</span>
         </div>
@@ -160,7 +160,7 @@ export default function AdminLayout({ children }: AdminLayoutProps) {
                     <div className="flex flex-col space-y-1">
                       <p className="text-sm font-medium leading-none">Admin User</p>
                       <p className="text-xs leading-none text-muted-foreground">
-                        admin@edifpharma.com
+                        admin@pharmacorp.com
                       </p>
                     </div>
                   </DropdownMenuLabel>

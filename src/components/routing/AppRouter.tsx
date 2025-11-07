@@ -50,7 +50,7 @@ const GlobalPresencePage = lazy(() => import('../../pages/company/global/GlobalP
 const CSRPage = lazy(() => import('../../pages/company/global/CSRPage').then(module => ({ default: module.CSRPage })));
 const CareersPage = lazy(() => import('../../pages/company/careers/CareersPage').then(module => ({ default: module.CareersPage })));
 const JoinOurTeamPage = lazy(() => import('../../pages/company/careers/JoinOurTeamPage').then(module => ({ default: module.JoinOurTeamPage })));
-const LifeAtEDIFPage = lazy(() => import('../../pages/company/careers/LifeAtEDIFPage').then(module => ({ default: module.LifeAtEDIFPage })));
+const LifeAtPharmaCorpPage = lazy(() => import('../../pages/company/careers/LifeAtPharmaCorpPage').then(module => ({ default: module.LifeAtPharmaCorpPage })));
 
 // Resources section
 const ResourcesPage = lazy(() => import('../../pages/resources/overview/ResourcesPage').then(module => ({ default: module.ResourcesPage })));
@@ -215,7 +215,7 @@ export function AppRouter() {
                     <Route path={ROUTES.COMPANY_GLOBAL.CSR} element={<CSRPage />} />
                     <Route path={ROUTES.COMPANY_CAREERS.CAREERS} element={<CareersPage />} />
                     <Route path={ROUTES.COMPANY_CAREERS.JOIN_OUR_TEAM} element={<JoinOurTeamPage />} />
-                    <Route path={ROUTES.COMPANY_CAREERS.LIFE_AT_EDIF} element={<LifeAtEDIFPage />} />
+                    <Route path={ROUTES.COMPANY_CAREERS.LIFE_AT_PHARMA_CORP} element={<LifeAtPharmaCorpPage />} />
                     <Route path={ROUTES.COMPANY} element={<CompanyPage />} />
 
                     {/* Resources Section */}

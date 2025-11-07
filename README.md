@@ -1,6 +1,8 @@
-# EDIF Pharma - Homepage Prototype
+# PharmaCorp - Homepage Prototype
 
-> Modern, minimal, high-trust homepage for EDIF Pharma — A Unit of EDIF Medical Systems
+# Pharmaceutical Company - Homepage Prototype
+
+> Modern, minimal, high-trust homepage for a leading pharmaceutical company
 
 **Clinical design • Generous white space • Multi-stakeholder focus • Accessibility-first**
 
@@ -312,7 +314,7 @@ npm run build
 VITE_GA_ID=UA-XXXXXXX-X
 
 # Optional: API endpoints
-VITE_API_URL=https://api.edifpharma.com
+VITE_API_URL=https://api.pharmacorp.com
 ```
 
 ---
@@ -418,7 +420,7 @@ Install browser extension and scan
 
 ### Pharmacovigilance
 
-- Case ID generation: `EDIF-[5-digit-random]`
+- Case ID generation: `PC-[5-digit-random]`
 - Email confirmation sent
 - 48-hour response commitment
 - Secure data transmission
@@ -434,7 +436,7 @@ Install browser extension and scan
 Hero Headline: "Trusted medicines — engineered, tested, delivered."
 Hero Subline: "GMP-manufactured pharmaceutical products with global approvals."
 Search Placeholder: "Search products, indications, SKUs"
-PV Success: "Thank you — case #EDIF-XXXXX has been received. Our PV team will contact you within 48 hours."
+PV Success: "Thank you — case #PC-XXXXX has been received. Our PV team will contact you within 48 hours."
 ```
 
 ### Tone of Voice
@@ -489,8 +491,8 @@ Include in `<head>` or footer (example in `Footer.tsx`):
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": "EDIF Pharma - A Unit of EDIF Medical Systems",
-  "url": "https://edifpharma.com"
+  "name": "PharmaCorp - Leading Pharmaceutical Company",
+  "url": "https://pharmacorp.com"
 }
 ```
 
@@ -582,9 +584,9 @@ For questions about this implementation:
 
 ## 📄 License
 
-© 2025 EDIF Medical Systems. All rights reserved.
+© 2025 PharmaCorp. All rights reserved.
 
-This is a prototype for EDIF Pharma. All brand assets, content, and design are proprietary.
+This is a prototype for a pharmaceutical company. All brand assets, content, and design are proprietary.
 
 ---
 
@@ -599,6 +601,6 @@ This is a prototype for EDIF Pharma. All brand assets, content, and design are p
 ---
 
 **Version**: 1.0.0  
-**Last Updated**: October 16, 2025  
+**Last Updated**: November 8, 2025  
 **Status**: ✅ Production Ready  
 **Prototype**: Fully Interactive

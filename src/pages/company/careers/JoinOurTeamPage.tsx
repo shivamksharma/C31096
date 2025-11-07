@@ -151,7 +151,7 @@ export function JoinOurTeamPage() {
             transition={{ duration: 0.6 }}
           >
             <h2 className="text-3xl lg:text-4xl font-bold text-[var(--text-900)] mb-6">
-              Why Join EDIF Pharma?
+              Why Join PharmaCorp?
             </h2>
             <p className="text-lg text-[var(--text-600)] max-w-3xl mx-auto">
               We're building a workplace where innovation thrives, careers grow, and every team member

@@ -39,7 +39,7 @@ export function PVFormModal({ isOpen, onClose }: PVFormModalProps) {
   });
 
   const generateCaseId = () => {
-    const id = `EDIF-${Math.floor(10000 + Math.random() * 90000)}`;
+    const id = `PC-${Math.floor(10000 + Math.random() * 90000)}`;
     setCaseId(id);
   };
 

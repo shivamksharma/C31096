@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import { AppRouter } from './components/routing/AppRouter';
 import { Toaster } from 'sonner';
 

@@ -61,7 +61,7 @@ export function Hero({ onExploreProducts, onRequestSample }: HeroProps) {
           <div className="relative aspect-[16/10] rounded-[var(--radius-medium)] overflow-hidden">
             <img
               src="https://images.unsplash.com/photo-1576669801838-1b1c52121e6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwaGFybWFjZXV0aWNhbCUyMG1hbnVmYWN0dXJpbmclMjBsYWJ8ZW58MXx8fHwxNzYwNjQ2ODk0fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
-              alt="EDIF manufacturing facility overview"
+              alt="PharmaCorp manufacturing facility overview"
               className="w-full h-full object-cover"
             />
           </div>

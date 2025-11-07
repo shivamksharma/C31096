@@ -127,8 +127,8 @@ export function SafetyInfoPage() {
       available: '24/7'
     },
     {
-      title: 'EDIF Pharma Safety Line',
-      number: '1-800-EDIF-SAFE',
+      title: 'PharmaCorp Safety Line',
+      number: '1-800-PC-SAFE',
       description: 'Report adverse events and product safety concerns',
       available: 'Mon-Fri 8AM-8PM EST'
     }
@@ -171,7 +171,7 @@ export function SafetyInfoPage() {
             </h1>
             <p className="text-lg text-white/80 leading-relaxed">
               Access comprehensive safety information, usage guidelines, and important alerts
-              to ensure safe and effective use of EDIF Pharma medications.
+              to ensure safe and effective use of PharmaCorp medications.
             </p>
           </motion.div>
         </div>

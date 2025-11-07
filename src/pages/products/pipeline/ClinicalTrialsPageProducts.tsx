@@ -4,8 +4,8 @@ import { Microscope, Users, Calendar, MapPin, Target, CheckCircle, Clock, AlertT
 export function ClinicalTrialsPageProducts() {
   const activeTrials = [
     {
-      id: 'EDIF-CV-001',
-      title: 'Phase 2 Study of EDIF-101 in Heart Failure with Reduced Ejection Fraction',
+      id: 'PC-CV-001',
+      title: 'Phase 2 Study of PC-101 in Heart Failure with Reduced Ejection Fraction',
       phase: 'Phase 2',
       therapeuticArea: 'Cardiology',
       status: 'Recruiting',
@@ -17,8 +17,8 @@ export function ClinicalTrialsPageProducts() {
       image: 'https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=300&fit=crop'
     },
     {
-      id: 'EDIF-DM-002',
-      title: 'Phase 1/2 Trial of EDIF-201 in Type 2 Diabetes Mellitus',
+      id: 'PC-DM-002',
+      title: 'Phase 1/2 Trial of PC-201 in Type 2 Diabetes Mellitus',
       phase: 'Phase 1/2',
       therapeuticArea: 'Metabolic',
       status: 'Active',
@@ -30,8 +30,8 @@ export function ClinicalTrialsPageProducts() {
       image: 'https://images.unsplash.com/photo-1576671081837-49000212a370?w=400&h=300&fit=crop'
     },
     {
-      id: 'EDIF-ID-003',
-      title: 'Phase 1 Study of EDIF-301 in Complicated Urinary Tract Infections',
+      id: 'PC-ID-003',
+      title: 'Phase 1 Study of PC-301 in Complicated Urinary Tract Infections',
       phase: 'Phase 1',
       therapeuticArea: 'Infectious Diseases',
       status: 'Recruiting',
@@ -43,8 +43,8 @@ export function ClinicalTrialsPageProducts() {
       image: 'https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=400&h=300&fit=crop'
     },
     {
-      id: 'EDIF-NS-004',
-      title: 'Phase 2a Study of EDIF-401 in Diabetic Peripheral Neuropathy',
+      id: 'PC-NS-004',
+      title: 'Phase 2a Study of PC-401 in Diabetic Peripheral Neuropathy',
       phase: 'Phase 2a',
       therapeuticArea: 'Neurology',
       status: 'Planning',
@@ -130,25 +130,25 @@ export function ClinicalTrialsPageProducts() {
 
   const regulatoryMilestones = [
     {
-      trial: 'EDIF-CV-001',
+      trial: 'PC-CV-001',
       milestone: 'IND Filing',
       date: 'March 2024',
       status: 'completed'
     },
     {
-      trial: 'EDIF-CV-001',
+      trial: 'PC-CV-001',
       milestone: 'Phase 2 Start',
       date: 'June 2024',
       status: 'completed'
     },
     {
-      trial: 'EDIF-DM-002',
+      trial: 'PC-DM-002',
       milestone: 'CTA Approval',
       date: 'January 2024',
       status: 'completed'
     },
     {
-      trial: 'EDIF-ID-003',
+      trial: 'PC-ID-003',
       milestone: 'IND Filing',
       date: 'August 2024',
       status: 'pending'

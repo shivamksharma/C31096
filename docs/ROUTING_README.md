@@ -1,6 +1,6 @@
-# EDIF Pharma React Routing System
+# PharmaCorp React Routing System
 
-A comprehensive, scalable routing system for the EDIF Pharma website built with React Router v6, featuring lazy loading, nested routes, SEO optimization, and TypeScript support.
+A comprehensive, scalable routing system for the PharmaCorp website built with React Router v6, featuring lazy loading, nested routes, SEO optimization, and TypeScript support.
 
 ## 🚀 Features
 
@@ -83,7 +83,7 @@ The routing system follows the website's navigation hierarchy:
 │   ├── /company/csr
 │   ├── /company/careers
 │   ├── /company/join-our-team
-│   └── /company/life-at-edif
+│   └── /company/life-at-pharma-corp
 ├── /resources             # Resources overview
 │   ├── /resources/hcp-portal
 │   ├── /resources/monographs
@@ -132,11 +132,11 @@ Each route includes SEO metadata:
 ```typescript
 export const PAGE_METADATA = {
   [ROUTES.HOME]: {
-    title: 'EDIF Pharma - Trusted Medicines, Engineered for Excellence',
-    description: 'EDIF Pharma delivers high-quality pharmaceutical products with WHO-GMP certified manufacturing. Explore our cardiology, diabetes, and antibiotic medications.',
+    title: 'PharmaCorp - Trusted Medicines, Engineered for Excellence',
+    description: 'PharmaCorp delivers high-quality pharmaceutical products with WHO-GMP certified manufacturing. Explore our cardiology, diabetes, and antibiotic medications.',
   },
   [ROUTES.PRODUCTS]: {
-    title: 'Products - EDIF Pharma',
+    title: 'Products - PharmaCorp',
     description: 'Explore our comprehensive portfolio...',
   },
   // ... more metadata
@@ -178,7 +178,7 @@ export const ROUTES = {
 export const PAGE_METADATA = {
   // ... existing metadata
   [ROUTES.NEW_SECTION]: {
-    title: 'New Section - EDIF Pharma',
+    title: 'New Section - PharmaCorp',
     description: 'Description of new section...',
   },
 };

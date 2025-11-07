@@ -135,7 +135,7 @@ export function InnovationPage() {
               Innovation & Technology
             </h1>
             <p className="text-lg text-white/80 leading-relaxed mb-8">
-              At EDIF Pharma, innovation is at the heart of everything we do. We leverage cutting-edge
+              At PharmaCorp, innovation is at the heart of everything we do. We leverage cutting-edge
               technologies, breakthrough methodologies, and forward-thinking approaches to transform
               pharmaceutical development and deliver next-generation therapies.
             </p>

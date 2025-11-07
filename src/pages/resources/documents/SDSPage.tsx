@@ -221,7 +221,7 @@ export function SDSPage() {
               Safety Data Sheets (SDS)
             </h1>
             <p className="text-lg text-white/80 leading-relaxed">
-              Access comprehensive Safety Data Sheets for all EDIF Pharma products,
+              Access comprehensive Safety Data Sheets for all PharmaCorp products,
               containing essential safety and handling information in accordance with
               global regulatory standards.
             </p>

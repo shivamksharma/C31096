@@ -135,7 +135,7 @@ export function ResourcesPage() {
               {[
                 {
                   title: 'Medical Information',
-                  contact: 'medinfo@edifpharma.com',
+                  contact: 'medinfo@pharmacorp.com',
                   hours: 'Mon-Fri, 9 AM - 6 PM',
                 },
                 {

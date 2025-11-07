@@ -1,4 +1,4 @@
-// Example usage of the EDIF Pharma Routing System
+// Example usage of the PharmaCorp Routing System
 // This demonstrates how to add new routes and navigate programmatically
 
 import { ROUTES } from '../../config/routes';

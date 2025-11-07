@@ -127,7 +127,7 @@ export function MonographsPage() {
             </h1>
             <p className="text-lg text-white/80 leading-relaxed">
               Access comprehensive prescribing information, including indications, dosage,
-              contraindications, warnings, and full product labeling for all EDIF Pharma medications.
+              contraindications, warnings, and full product labeling for all PharmaCorp medications.
             </p>
           </motion.div>
         </div>

@@ -4,7 +4,7 @@ import { Newspaper, Calendar, ExternalLink, TrendingUp, Users, Award, Target, Do
 export function InvestorNewsPage() {
   const newsArticles = [
     {
-      title: 'EDIF Pharma Announces Record Q3 2025 Financial Results',
+      title: 'PharmaCorp Announces Record Q3 2025 Financial Results',
       date: 'October 25, 2025',
       category: 'Financial Results',
       excerpt: 'Company reports 18% YoY revenue growth and expanded EBITDA margins, driven by strong performance across all business segments.',
@@ -15,7 +15,7 @@ export function InvestorNewsPage() {
       title: 'Strategic Partnership with Global Pharmaceutical Distributor',
       date: 'October 15, 2025',
       category: 'Business Development',
-      excerpt: 'EDIF Pharma enters into exclusive distribution agreement to expand market presence in North American region.',
+      excerpt: 'PharmaCorp enters into exclusive distribution agreement to expand market presence in North American region.',
       type: 'press-release',
       featured: false
     },
@@ -28,7 +28,7 @@ export function InvestorNewsPage() {
       featured: false
     },
     {
-      title: 'EDIF Pharma Named Among India\'s Best Workplaces 2025',
+      title: 'PharmaCorp Named Among India\'s Best Workplaces 2025',
       date: 'September 28, 2025',
       category: 'Corporate',
       excerpt: 'Recognition for employee engagement, innovation culture, and commitment to professional development.',
@@ -146,7 +146,7 @@ export function InvestorNewsPage() {
               Latest Updates & Announcements
             </h1>
             <p className="text-lg text-white/80 leading-relaxed">
-              Stay informed with EDIF Pharma's latest news, financial results, and corporate developments.
+              Stay informed with PharmaCorp's latest news, financial results, and corporate developments.
               Access press releases, market insights, and investor presentations.
             </p>
           </motion.div>
@@ -439,7 +439,7 @@ export function InvestorNewsPage() {
               Media & Press Inquiries
             </h2>
             <p className="text-lg text-[var(--text-900)]/60 mb-8 max-w-2xl mx-auto">
-              For press releases, media interviews, or additional information about EDIF Pharma.
+              For press releases, media interviews, or additional information about PharmaCorp.
             </p>
             <button className="inline-flex items-center justify-center gap-2 bg-[var(--brand-blue)] text-white hover:bg-[var(--brand-blue)]/85 active:bg-[var(--brand-blue)]/95 px-8 py-4 text-sm tracking-wide transition-colors duration-150">
               <span>Contact Media Relations</span>

@@ -30,7 +30,7 @@ export function MediaPage() {
 
   const pressReleases = [
     {
-      title: 'EDIF Pharma Launches Revolutionary Cardiovascular Treatment',
+      title: 'PharmaCorp Launches Revolutionary Cardiovascular Treatment',
       date: 'October 15, 2025',
       excerpt: 'Groundbreaking therapy shows 85% efficacy in clinical trials, marking a significant advancement in cardiovascular care.',
       category: 'Product Launch'
@@ -60,21 +60,21 @@ export function MediaPage() {
       region: 'Global Media Relations',
       name: 'Sarah Johnson',
       title: 'Director of Communications',
-      email: 'sarah.johnson@edifpharma.com',
+      email: 'sarah.johnson@pharmacorp.com',
       phone: '+1 (555) 123-4567'
     },
     {
       region: 'European Media',
       name: 'Dr. Michael Chen',
       title: 'Communications Manager',
-      email: 'michael.chen@edifpharma.com',
+      email: 'michael.chen@pharmacorp.com',
       phone: '+41 22 555 0123'
     },
     {
       region: 'Asia-Pacific Media',
       name: 'Priya Patel',
       title: 'Regional Communications Lead',
-      email: 'priya.patel@edifpharma.com',
+      email: 'priya.patel@pharmacorp.com',
       phone: '+65 6555 7890'
     }
   ];
@@ -145,7 +145,7 @@ export function MediaPage() {
               Press & Media Center
             </h1>
             <p className="text-lg text-white/80 leading-relaxed">
-              Access the latest news, press releases, and media resources from EDIF Pharma.
+              Access the latest news, press releases, and media resources from PharmaCorp.
               Connect with our communications team for interviews and story opportunities.
             </p>
           </motion.div>

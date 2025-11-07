@@ -92,7 +92,7 @@ export function FilingsPage() {
   const regulatoryInfo = [
     {
       title: 'SEC Filing Requirements',
-      description: 'EDIF Pharma is subject to SEC reporting requirements as a foreign private issuer. We file annual reports on Form 20-F and current reports on Form 6-K.',
+      description: 'PharmaCorp is subject to SEC reporting requirements as a foreign private issuer. We file annual reports on Form 20-F and current reports on Form 6-K.',
       icon: FileText
     },
     {
@@ -126,7 +126,7 @@ export function FilingsPage() {
             </h1>
             <p className="text-lg text-white/80 leading-relaxed">
               Access all our SEC filings, regulatory documents, and corporate disclosures.
-              Stay informed about EDIF Pharma's regulatory compliance and corporate governance.
+              Stay informed about PharmaCorp's regulatory compliance and corporate governance.
             </p>
           </motion.div>
         </div>

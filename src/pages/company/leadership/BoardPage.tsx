@@ -58,8 +58,8 @@ export function BoardPage() {
       name: 'Dr. Sarah Chen',
       title: 'Executive Director & CEO',
       image: '/api/placeholder/300/300',
-      bio: 'CEO of EDIF Pharma with extensive experience in pharmaceutical leadership and drug development.',
-      background: 'CEO, EDIF Pharma',
+      bio: 'CEO of PharmaCorp with extensive experience in pharmaceutical leadership and drug development.',
+      background: 'CEO, PharmaCorp',
       expertise: ['Drug Development', 'Regulatory Affairs', 'Strategic Leadership'],
       committees: ['Executive Committee']
     },
@@ -68,7 +68,7 @@ export function BoardPage() {
       title: 'Executive Director & CTO',
       image: '/api/placeholder/300/300',
       bio: 'Chief Technology Officer leading digital transformation and innovation in pharmaceutical technology.',
-      background: 'CTO, EDIF Pharma',
+      background: 'CTO, PharmaCorp',
       expertise: ['Digital Health', 'Data Analytics', 'Technology Innovation'],
       committees: ['Technology Committee', 'Innovation Committee']
     }
@@ -120,7 +120,7 @@ export function BoardPage() {
               {...fadeInUp}
               transition={{ delay: 0.2 }}
             >
-              Experienced leaders providing strategic guidance and oversight to ensure EDIF Pharma's continued success and ethical governance.
+              Experienced leaders providing strategic guidance and oversight to ensure PharmaCorp's continued success and ethical governance.
             </motion.p>
           </div>
         </div>

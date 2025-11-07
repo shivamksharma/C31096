@@ -56,19 +56,19 @@ export function ReportAEPage() {
     {
       region: 'Global Emergency',
       phone: '+1 (555) 911-0000',
-      email: 'emergency@edifpharma.com',
+      email: 'emergency@pharmacorp.com',
       hours: '24/7'
     },
     {
       region: 'Europe',
       phone: '+41 22 555 0199',
-      email: 'eu.emergency@edifpharma.com',
+      email: 'eu.emergency@pharmacorp.com',
       hours: '24/7'
     },
     {
       region: 'Asia-Pacific',
       phone: '+65 6555 7999',
-      email: 'apac.emergency@edifpharma.com',
+      email: 'apac.emergency@pharmacorp.com',
       hours: '24/7'
     }
   ];

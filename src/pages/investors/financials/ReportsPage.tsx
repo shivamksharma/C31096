@@ -110,7 +110,7 @@ export function ReportsPage() {
             </h1>
             <p className="text-lg text-white/80 leading-relaxed">
               Access our comprehensive financial reports, quarterly results, and annual statements.
-              Stay informed about EDIF Pharma's financial performance and strategic direction.
+              Stay informed about PharmaCorp's financial performance and strategic direction.
             </p>
           </motion.div>
         </div>

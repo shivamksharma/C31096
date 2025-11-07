@@ -20,7 +20,7 @@ export function TermsOfUsePage() {
               Terms of Use
             </h1>
             <p className="text-lg text-white/80 leading-relaxed">
-              Please read these terms carefully before using the EDIF Pharma website and services.
+              Please read these terms carefully before using the PharmaCorp website and services.
             </p>
             <p className="text-sm text-white/60 mt-4">
               Effective Date: January 1, 2025 | Last Updated: January 1, 2025
@@ -39,8 +39,8 @@ export function TermsOfUsePage() {
             transition={{ duration: 0.6 }}
           >
             <p className="text-[var(--text-900)]/70 leading-relaxed">
-              These Terms of Use ("Terms") govern your access to and use of the EDIF Medical Systems Pharmaceutical Division 
-              ("EDIF Pharma") website and services. By accessing or using our website, you agree to be bound by these Terms 
+              These Terms of Use ("Terms") govern your access to and use of the PharmaCorp Pharmaceutical Division 
+              ("PharmaCorp") website and services. By accessing or using our website, you agree to be bound by these Terms 
               and our Privacy Policy. If you do not agree, please do not use our website.
             </p>
           </motion.div>
@@ -136,11 +136,11 @@ export function TermsOfUsePage() {
                 <div className="space-y-3 text-[var(--text-900)]/70 leading-relaxed">
                   <p>
                     All content on this website, including text, graphics, logos, images, product information, data compilations, 
-                    and software, is the property of EDIF Pharma or its licensors and is protected by copyright, trademark, 
+                    and software, is the property of PharmaCorp or its licensors and is protected by copyright, trademark, 
                     and other intellectual property laws.
                   </p>
                   <p>
-                    The EDIF Pharma name, logo, and all related product names are trademarks of EDIF Medical Systems. 
+                    The PharmaCorp name, logo, and all related product names are trademarks of PharmaCorp. 
                     You may not use these trademarks without our prior written permission.
                   </p>
                   <p>
@@ -178,7 +178,7 @@ export function TermsOfUsePage() {
                     labeling before prescribing or dispensing any medication.
                   </p>
                   <p>
-                    EDIF Pharma does not provide medical advice through this website. For medical emergencies, contact 
+                    PharmaCorp does not provide medical advice through this website. For medical emergencies, contact 
                     emergency services immediately.
                   </p>
                 </div>
@@ -199,11 +199,11 @@ export function TermsOfUsePage() {
             <div className="space-y-3 text-[var(--text-900)]/70 leading-relaxed">
               <p>
                 The website and all information are provided "as is" without warranties of any kind, either express or implied. 
-                EDIF Pharma does not warrant that the website will be uninterrupted, error-free, or free from viruses or 
+                PharmaCorp does not warrant that the website will be uninterrupted, error-free, or free from viruses or 
                 other harmful components.
               </p>
               <p>
-                To the maximum extent permitted by law, EDIF Pharma shall not be liable for any indirect, incidental, 
+                To the maximum extent permitted by law, PharmaCorp shall not be liable for any indirect, incidental, 
                 special, consequential, or punitive damages arising from your use of the website or inability to use the website.
               </p>
             </div>
@@ -220,7 +220,7 @@ export function TermsOfUsePage() {
               Indemnification
             </h2>
             <p className="text-[var(--text-900)]/70 leading-relaxed">
-              You agree to indemnify and hold harmless EDIF Pharma, its affiliates, officers, directors, employees, and agents 
+              You agree to indemnify and hold harmless PharmaCorp, its affiliates, officers, directors, employees, and agents 
               from any claims, damages, losses, liabilities, and expenses (including legal fees) arising from your use of the 
               website or violation of these Terms.
             </p>
@@ -254,7 +254,7 @@ export function TermsOfUsePage() {
               Governing Law and Jurisdiction
             </h2>
             <p className="text-[var(--text-900)]/70 leading-relaxed">
-              These Terms shall be governed by and construed in accordance with the laws of the jurisdiction where EDIF Pharma's 
+              These Terms shall be governed by and construed in accordance with the laws of the jurisdiction where PharmaCorp's 
               principal office is located, without regard to conflict of law principles. Any disputes arising under these Terms 
               shall be subject to the exclusive jurisdiction of the courts in that jurisdiction.
             </p>
@@ -291,9 +291,9 @@ export function TermsOfUsePage() {
               If you have questions about these Terms of Use, please contact our Legal Department:
             </p>
             <div className="space-y-2 text-[var(--text-900)]/70">
-              <p><strong>Email:</strong> legal@edifpharma.com</p>
+              <p><strong>Email:</strong> legal@pharmacorp.com</p>
               <p><strong>Phone:</strong> +1 (555) 123-4567</p>
-              <p><strong>Mail:</strong> Legal Department, EDIF Medical Systems, 123 Pharmaceutical Way, Metropolitan City, Country 12345</p>
+              <p><strong>Mail:</strong> Legal Department, PharmaCorp, 123 Pharmaceutical Way, Metropolitan City, Country 12345</p>
             </div>
           </motion.div>
         </div>

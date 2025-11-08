@@ -165,3 +165,20 @@ export const heroSectionsService = new FirestoreService<import('./firestoreTypes
 export const aboutSectionsService = new FirestoreService<import('./firestoreTypes').FirestoreAboutSection>('homepage_sections');
 export const featuresService = new FirestoreService<import('./firestoreTypes').FirestoreFeature>('homepage_sections');
 export const ctaSectionsService = new FirestoreService<import('./firestoreTypes').FirestoreCTASection>('homepage_sections');
+
+// User management service
+export interface FirestoreUser {
+  id: string;
+  email: string;
+  name: string;
+  role: 'admin' | 'editor' | 'viewer';
+  avatar?: string;
+  createdAt: import('firebase/firestore').Timestamp;
+  updatedAt: import('firebase/firestore').Timestamp;
+  createdBy: string;
+  updatedBy: string;
+  lastLogin?: import('firebase/firestore').Timestamp;
+  isActive: boolean;
+}
+
+export const usersService = new FirestoreService<FirestoreUser>('users');
